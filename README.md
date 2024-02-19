@@ -12,6 +12,12 @@ php artisan key:generate
 php artisan migrate:fresh --seed
 ```
 
-3. login admin
+3. Setelah itu ketikkan
+
+```bash
+php artisan serve
+```
+
+4. login admin
    email : admin@gmail.com
    pass : pass
